@@ -1,0 +1,6 @@
+Родительский элемент (UID: КЕВ00030594,ID: 127614, NAME: Футболка GURON черная, ITEMS: 245) имеет дочерние элементы:
+  - Дочерний элемент (ID: 45368540, UID: ae7b8dba4ba88011eea8c499c26af5dc2905, NAME: Футболка GURON черная L, ITEMS: 102, PRICE: 690)
+  - Дочерний элемент (ID: 45368541, UID: ae7b8dbd4ba88011eea8c499c26af5dc2905, NAME: Футболка GURON черная M, ITEMS: 26, PRICE: 690)
+  - Дочерний элемент (ID: 45368542, UID: ae7b8dc24ba88011eea8c499c26af5dc2905, NAME: Футболка GURON черная XL, ITEMS: 102, PRICE: 690)
+  - Дочерний элемент (ID: 45368543, UID: ae7b8dc84ba88011eea8c499c26af5dc2905, NAME: Футболка GURON черная XXL, ITEMS: 15, PRICE: 690)
+

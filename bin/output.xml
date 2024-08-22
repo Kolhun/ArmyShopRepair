@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-07-29T10:31:34">
+<shop>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="512">Амуниция</category>
+<category id="495">Обувь</category>
+<category id="457">Туризм</category>
+<category id="849">Галантерея</category>
+<category id="866">Костюмы</category>
+</categories>
+<offers>
+<offer id="2124">
+<categoryId>512</categoryId>
+<name>Амуниция для службы и отдыха</name>
+<description>Большой ассортимент Обуви. Одежда и Амуниция для людей в форме в сети магазинов и на сайте</description>
+<picture>https://army-magazin.ru/UserFiles/Files/slider_1_xml.png</picture>
+<price>3150</price>
+<currencyId>RUR</currencyId>
+</offer>
+<offer id="4013">
+<categoryId>495</categoryId>
+<name>Обувь для службы и активного отдыха</name>
+<description>Большой ассортимент Обуви, Одежды и Амуниции для людей в форме в сети магазинов и на сайте</description>
+<picture>https://army-magazin.ru/UserFiles/Files/slider_2_xml.png</picture>
+<price>4190</price>
+<currencyId>RUR</currencyId>
+</offer>
+<offer id="9270">
+<categoryId>457</categoryId>
+<name>Товары для туризма и отдыха</name>
+<description>Широкий выбор спальников, одежды  и аксессуаров для туризма и отдыха в сети магазинов и на сайте</description>
+<picture>https://army-magazin.ru/UserFiles/Files/slider_3_xml.png</picture>
+<price>4790</price>
+<currencyId>RUR</currencyId>
+</offer>
+<offer id="5540">
+<categoryId>849</categoryId>
+<name>Сопутствующие товары для служащих</name>
+<description>Большой ассортимент Значков, Шевронов и Амуниции для людей в форме в сети магазинов и на сайте</description>
+<picture>https://army-magazin.ru/UserFiles/Files/slider_4_xml.png</picture>
+<price>100</price>
+<currencyId>RUR</currencyId>
+</offer>
+<offer id="3474">
+<categoryId>866</categoryId>
+<name>Костюмы и для военнослужащих, силовых структур и активного отдыха</name>
+<description>Большой ассортимент Обуви, Одежды и Амуниции для людей в форме в сети магазинов и на сайте</description>
+<picture>https://army-magazin.ru/UserFiles/Files/slider_5_xml.png</picture>
+<price>8990</price>
+<currencyId>RUR</currencyId>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

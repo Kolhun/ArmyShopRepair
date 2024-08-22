@@ -1,0 +1,104 @@
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "690",
+    "items": 102
+  },
+  "where": "id=45368540",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "690",
+    "items": 26
+  },
+  "where": "id=45368541",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "690",
+    "items": 102
+  },
+  "where": "id=45368542",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "690",
+    "items": 15
+  },
+  "where": "id=45368543",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "690",
+    "items": 245
+  },
+  "where": "id=127614",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "1600",
+    "items": "0"
+  },
+  "where": "id=159673",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "0",
+    "price": "240",
+    "items": "183"
+  },
+  "where": "id=159722",
+  "order": "",
+  "limit": "1"
+}
+
+{
+  "from": "products",
+  "method": "update",
+  "vars": {
+    "enabled": "1",
+    "price": "3190",
+    "items": "0"
+  },
+  "where": "id=45370218",
+  "order": "",
+  "limit": "1"
+}
+
